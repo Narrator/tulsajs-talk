@@ -2,13 +2,13 @@
 
 This is an easy way to setup the whole environment using nvm. Otherwise, you can install it using the official [Package Manager](https://nodejs.org/en/download/package-manager/) according to your OS.
 
-**Note:** If you're on Windows, you can use [nvm-windows](https://github.com/coreybutler/nvm-windows). After that [Install MongoDB](#install-mongodb) and [LoopBack CLI]().
+**Note:** If you're on Windows, you can use [nvm-windows](https://github.com/coreybutler/nvm-windows). After that [Install MongoDB](#install-mongodb) and [LoopBack CLI](#install-loopback-cli).
 
 Loopback has documentation on [installation on windows](https://loopback.io/doc/en/lb3/Installing-on-Windows.html), but it's **outdated**.
 
 Installation steps below are only for UNIX type systems like MacOS, Linux etc.
 
-**If you already have `Node 8.11.1`, `MongoDB 3.6` installed, you can just directly [install the LoopBack CLI](#).**
+**If you already have `Node 8.11.1`, `MongoDB 3.6` installed, you can just directly [install the LoopBack CLI](#install-loopback-cli).**
 
 ### Install [NVM](https://github.com/creationix/nvm)
  Using Curl
